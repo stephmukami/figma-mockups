@@ -64,11 +64,10 @@ An eye-catching poster for a Cultural Day event. <br>
 
 If you’d like to collaborate or have questions about my work, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:stephmukami@gmail.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/stephanie-mukami/)
+- **Email**: [stephmukami@gmail.com](mailto:stephmukami@gmail.com)
+- **LinkedIn**: [Stephanie Mukami](https://www.linkedin.com/in/stephanie-mukami/)
 - **GitHub**: [github.com/stephmukami](https://github.com/stephmukami)
 - **Website**: [steph.me](https://steph-portfolio-zeta.vercel.app/)
-
 ---
 
 <p align="center">

@@ -41,7 +41,7 @@ A cloned user interface concept for Netflix. <br>
 ---
 
 ### HealthWell Wellness App
-An engaging design for a wellness app. Try its [Figma Prototype here](https://www.figma.com/proto/6rLHOc2mJzp1OFd3jNdvFQ/HealthWell?node-id=20-54&starting-point-node-id=20%3A54&t=sB4eTkUHGX9lR3zx-1) <br>
+An engaging design for a wellness app. <br>
 <img src="https://raw.githubusercontent.com/stephmukami/figma-mockups/main/full-heathwell-mockup.png" alt="Healthwell UI Concept" width="700">
 
 ---

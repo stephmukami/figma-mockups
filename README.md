@@ -25,7 +25,7 @@ Feel free to reach out for collaboration on design and fullstack projects. 😊
 
 
 ### E-Commerce Website
-A modern and sleek e-commerce site mockup for online shopping experiences.
+A modern and sleek e-commerce site mockup for online shopping experiences. <br>
 <img src="https://raw.githubusercontent.com/stephmukami/figma-mockups/main/e-commerce-site.png" alt="E-Commerce Site" width="400">
 
 ### Game App Screen

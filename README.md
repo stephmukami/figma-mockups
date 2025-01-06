@@ -29,7 +29,7 @@ A modern and sleek e-commerce site mockup for online shopping experiences.
 <img src="https://raw.githubusercontent.com/stephmukami/figma-mockups/main/e-commerce-site.png" alt="E-Commerce Site" width="400">
 
 ### Game App Screen
-A vibrant game application screen showcasing UI design for mobile platforms.
+A vibrant game application screen showcasing UI design for mobile platforms.<br>
 <img src="https://raw.githubusercontent.com/stephmukami/figma-mockups/main/game_up_screen_three.png" alt="Game App Screen" width="400">
 
 ---
